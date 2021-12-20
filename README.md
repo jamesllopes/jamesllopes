@@ -4,7 +4,7 @@
     💾 Tenho experiências consolidadas na área de Infraestrutura de TI
     👨‍💻 Atualmente estou migrando para a área de Desenvolvimento Web Front End.
 
-### Algumas tecnologias que venho estudando ⤵
+### Algumas tecnologias que venho aprimorando ⤵
   <div style="display: inline_block">
   <img align="center" alt="jl-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="jl-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
