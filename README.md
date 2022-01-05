@@ -1,8 +1,8 @@
 ### Olá, Me chamo James Lopes 👋
 
-    🎓 Tenho Graduação em Redes de Computadores e Especialização em Segurança da Informação e Gestão de TI
-    💾 Tenho experiências consolidadas na área de Infraestrutura de TI
-    👨‍💻 Atualmente estou migrando para a área de Desenvolvimento Web Front End.
+    🎓 Sou graduado em Redes de Computadores e tenho especialização em Segurança da Informação e Gestão de TI
+    💾 Possuo experiências como analista de suporte aos usuários e infraestrutura de redes.
+    👨‍💻 Atualmente estou em transição para a área de Desenvolvimento Web Front End.
 
 ### Algumas tecnologias que venho aprimorando ⤵
   <div style="display: inline_block">
