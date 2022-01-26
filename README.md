@@ -1,6 +1,7 @@
 ### Olá, Me chamo James Lopes 👋
 
-    🎓 Sou graduado em Redes de Computadores e tenho especialização em Segurança da Informação e Gestão de TI
+    🎓 Sou graduado em Redes de Computadores e tenho especialização em Segurança da Informação e Gestão de TI. 
+    👨‍🎓 Atualmente estou cursando uma formação em Desenvolvimento de Software na Cubos Academy.
     💾 Possuo experiências como analista de suporte aos usuários e infraestrutura de redes.
     👨‍💻 Atualmente estou em transição para a área de Desenvolvimento Web Front End.
 
@@ -11,6 +12,9 @@
   <img align="center" alt="jl-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jl-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="jl-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   
 </div> <br>
 
