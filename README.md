@@ -3,7 +3,7 @@
     🎓 Sou graduado em Redes de Computadores e tenho especialização em Segurança da Informação e Gestão de TI. 
     👨‍🎓 Atualmente estou cursando uma formação em Desenvolvimento de Software na Cubos Academy.
     💾 Possuo experiências como analista de suporte aos usuários e infraestrutura de redes.
-    👨‍💻 Atualmente estou em transição para a área de Desenvolvimento Web Front End.
+    👨‍💻 Estou em processo de transição de carreira para desenvolvedor web.
 
 ### Algumas tecnologias que venho aprimorando ⤵
   <div style="display: inline_block">
