@@ -5,7 +5,7 @@
     💾 Possuo experiências como analista de suporte aos usuários e infraestrutura de redes.
     👨‍💻 Estou em processo de transição de carreira para desenvolvedor web.
 
-### Algumas tecnologias que venho aprimorando ⤵
+<!-- ### Algumas tecnologias que venho aprimorando ⤵
   <div style="display: inline_block">
   <img align="center" alt="jl-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="jl-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -15,7 +15,7 @@
   <img align="center" alt="SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  
+   -->
 </div> <br>
 
 ### Minhas redes sociais ⤵
