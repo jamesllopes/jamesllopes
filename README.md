@@ -17,9 +17,13 @@
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
    
 </div> <br>
-
+<div align="start">
+  <a href="https://github.com/jamesllopes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamesllopes&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesllopes&layout=compact&langs_count=7&theme=city_lights"/>
+</div>    
+    
 ### Minhas redes sociais ⤵
-
 <div> 
   
   <a href="https://instagram.com/jamesllopes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	
