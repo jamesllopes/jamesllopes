@@ -7,6 +7,7 @@
     👨‍🎓 Atualmente estou cursando uma formação em Desenvolvimento de Software na Cubos Academy.
     💾 Possuo experiências como analista de suporte aos usuários e infraestrutura de redes.
     👨‍💻 Estou em processo de transição de carreira para desenvolvedor web. -->
+      
     
 ### Linguagens ⤵    
  <div style="display: inline_block">
