@@ -2,6 +2,7 @@
 # Olá, seja bem vindo(a) ao meu Github. ;)
 <div>
 <!-- ![Header](./header.png) --> 
+    
 
 <!--     🎓 Sou graduado em Redes de Computadores e tenho especialização em Segurança da Informação e Gestão de TI. 
     👨‍🎓 Atualmente estou cursando uma formação em Desenvolvimento de Software na Cubos Academy.
