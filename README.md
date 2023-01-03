@@ -24,7 +24,11 @@
   <img align="center" alt="jl-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg">
   <img align="center" alt="jl-material" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg">
     <img align="center" alt="jl-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+      <img align="center" alt="jl-Node" height="30" width="40" src="https://miro.medium.com/max/318/1*7jRD5QhgARucFKvRHFxpOg.png">
     <img align="center" alt="jl-Node" height="30" width="40" src="https://media.graphassets.com/91q3gAEGSh6HCrpnPgxS">
+       
+  
+    
 
 </div> <br>
 
