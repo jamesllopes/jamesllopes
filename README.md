@@ -27,6 +27,8 @@
       <img align="center" alt="Styled" height="30" width="40" src="https://miro.medium.com/max/318/1*7jRD5QhgARucFKvRHFxpOg.png">
     <img align="center" alt="Chakra" height="30" width="40" src="https://media.graphassets.com/91q3gAEGSh6HCrpnPgxS">
       <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg">
+        <img align="center" alt="Tailwind" height="70" width="60" src="https://vetores.org/d/tailwind-css.svg">
+     
       
 </div> <br>
 
