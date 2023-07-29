@@ -13,6 +13,7 @@
  <div style="display: inline_block">
    <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
      <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+      <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
  </div> <br>
  
 ### Front-End ⤵  
@@ -44,6 +45,7 @@
    ### Mobile ⤵  
   <div style="display: inline_block">
 <img align="center" alt="ReactNative" height="30" width="40" src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png">
+       <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
     </div> <br>
  
 ### Controle de Versão ⤵  
