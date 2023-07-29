@@ -55,11 +55,11 @@
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div> <br>
 
-<!-- <div align="start">
+ <div align="start">
   <a href="https://github.com/jamesllopes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamesllopes&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesllopes&layout=compact&langs_count=7&theme=city_lights"/>
-</div>    -->
+</div>    
     
 ### Minhas redes sociais ⤵
 <div> 
