@@ -1,25 +1,24 @@
 
-# Olá, seja bem vindo(a) ao meu Github. ;)
-<div>
-<!-- ![Header](./header.png) --> 
 
-<!--     🎓 Sou graduado em Redes de Computadores e tenho especialização em Segurança da Informação e Gestão de TI. 
-    👨‍🎓 Atualmente estou cursando uma formação em Desenvolvimento de Software na Cubos Academy.
-    💾 Possuo experiências como analista de suporte aos usuários e infraestrutura de redes.
-    👨‍💻 Estou em processo de transição de carreira para desenvolvedor web. -->
+<div>
+
+
+   ## James Lopes | Lauro de Freitas | Salvador - BA | Fullstack Developer
+
      
     
 ### Linguagens ⤵    
  <div style="display: inline_block">
-   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
      <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-      <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
  </div> <br>
  
 ### Front-End ⤵  
   <div style="display: inline_block">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
 
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg">
   <img align="center" alt="Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original.svg">
@@ -45,7 +44,7 @@
    ### Mobile ⤵  
   <div style="display: inline_block">
 <img align="center" alt="ReactNative" height="30" width="40" src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png">
-       <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+<!--        <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"> -->
     </div> <br>
  
 ### Controle de Versão ⤵  
@@ -69,19 +68,4 @@
     </div>
   
 
-    
 
-<!--
-**jamesllopes/jamesllopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
