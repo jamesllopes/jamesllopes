@@ -3,7 +3,7 @@
 <div>
 
 
-   ## James Lopes | Lauro de Freitas | Salvador - BA | Fullstack Developer
+   ## James Lopes | Fullstack Developer
 
      
     
