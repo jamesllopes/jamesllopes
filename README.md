@@ -6,7 +6,7 @@
    ## James Lopes | Fullstack Developer
 
      
-    
+<!--    
 ### Linguagens ⤵    
  <div style="display: inline_block">
      <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -30,8 +30,7 @@
         <img align="center" alt="Tailwind" height="70" width="60" src="https://vetores.org/d/tailwind-css.svg">
      
       
-</div> <br>
-
+ 
 ### Back-End ⤵  
  <div style="display: inline_block">
      <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
@@ -44,8 +43,11 @@
    ### Mobile ⤵  
   <div style="display: inline_block">
 <img align="center" alt="ReactNative" height="30" width="40" src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png">
-<!--        <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"> -->
+       <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"> 
     </div> <br>
+     
+
+    
  
 ### Controle de Versão ⤵  
  <div style="display: inline_block">
@@ -54,13 +56,13 @@
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div> <br>
 
+
  <div align="start">
-  <a href="https://github.com/jamesllopes">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamesllopes&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/> -->
+  <a href="https://github.com/jamesllopes"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamesllopes&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesllopes&layout=compact&langs_count=7&theme=city_lights"/>
 </div>    
-    
-### Minhas redes sociais ⤵
+    --> 
+### Contatos  ⤵
 <div> 
     <a href="https://www.linkedin.com/in/jamesllopes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
      <a href = "mailto:jl.jameslopes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
